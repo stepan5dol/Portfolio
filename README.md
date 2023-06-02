@@ -1,15 +1,16 @@
 # Portfolio
+<img align="right" width="200" height="200" src="https://github.com/stepan5dol/Portfolio/blob/18292c4c82e3a8d17fed55f6cd71ef16fb1b06d2/IMG_8441%202.jpg" />
+
 DS/DA portfolio of Stepan Dolzhenko. It contains conducted projects/researches, basic information about my education and work experience and contact info.
 
 #### Contacts
-<img align="right" width="250" height="150" src="https://github.com/stepan5dol/Crypto-seasonal-decomposition/blob/04c5bab2056463ff3c88ec17e935e23d86773b9e/Figures/Fig.01.png">
 
 * Email: stepan5dol@gmail.com
 * LinkedIn: [Stepan Dolzhenko](http://linkedin.com/in/stepan-dolzhenko-349ba2259/)
-* Telegram: @dolzhenkosv
+* Telegram: [@dolzhenkosv](t.me/dolzhenkosv)
 
 ## Projects
-<img align="left" width="250" height="150" src="https://github.com/stepan5dol/Crypto-seasonal-decomposition/blob/04c5bab2056463ff3c88ec17e935e23d86773b9e/Figures/Fig.01.png"> **[Cryptocurrencies seasonal decomposition](https://github.com/stepan5dol/Crypto-seasonal-decomposition/tree/main)** 
+<img align="left"  width="250" height="150" src="https://github.com/stepan5dol/Crypto-seasonal-decomposition/blob/04c5bab2056463ff3c88ec17e935e23d86773b9e/Figures/Fig.01.png"> **[Cryptocurrencies seasonal decomposition](https://github.com/stepan5dol/Crypto-seasonal-decomposition/tree/main)** 
 
 Conducted seasonal decomposition analysis on three cryptocurrencies using `statsmodels.tsa.seasonal`. Statistical analysis was couducted, annual seasonal patterns were described, the most stable coin was found.
 
