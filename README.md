@@ -1,6 +1,8 @@
 # Portfolio
 <img align="right" width="200" height="200" src="https://github.com/stepan5dol/Portfolio/blob/18292c4c82e3a8d17fed55f6cd71ef16fb1b06d2/IMG_8441%202.jpg" />
 
+<br />
+
 DS/DA portfolio of Stepan Dolzhenko. It contains conducted projects/researches, basic information about my education and work experience and contact info.
 
 #### Contacts
@@ -8,6 +10,10 @@ DS/DA portfolio of Stepan Dolzhenko. It contains conducted projects/researches, 
 * Email: stepan5dol@gmail.com
 * LinkedIn: [Stepan Dolzhenko](http://linkedin.com/in/stepan-dolzhenko-349ba2259/)
 * Telegram: [@dolzhenkosv](t.me/dolzhenkosv)
+
+DS skills |
+---|
+ `NumPy` `Seaborn` `Pandas` `Catboost` `PostgreSQL` `IBM Statistica` `Matplotlib` `Scikit-Learn` `XGBoost` `Lightgbm` `Keynote` `Excel` `Power Point` `Feature Engineering` |
 
 ## Projects
 <img align="left"  width="250" height="150" src="https://github.com/stepan5dol/Crypto-seasonal-decomposition/blob/04c5bab2056463ff3c88ec17e935e23d86773b9e/Figures/Fig.01.png"> **[Cryptocurrencies seasonal decomposition](https://github.com/stepan5dol/Crypto-seasonal-decomposition/tree/main)** 
@@ -32,7 +38,8 @@ Each project in numerical order reflects the `stages of studying` aspects of the
 ## Education
 
 ### Medical education:
-- RNRMU: GDP 93%, Laboratory work experience, Team Leading, Medical data statistics.
+- **RNRMU**: GDP 93%, Laboratory work experience, Team Leading, Medical data statistics. Was the head of the Student Scientiﬁc Histological Community and Student Paediatric Commynity.
+
 ### Data Science:
 - **Yandex.Practicum**: Academic excellence, `Python`, `Pandas`, `Time Series`, `ML`, `NLP`, `CV`, `SQL` etc. [Study projects](https://github.com/stepan5dol/practicum_projects), [Certificate](https://github.com/stepan5dol/practicum_projects/blob/b02813ee68e2c57e7a23f24ea6e548ab9c63f58d/Dolzhenko%20Stepan_20232%D0%A6%D0%9F%D0%94%D0%A100345.pdf).
 - **Foundations of Data Science: K-Means Clustering in Python**. London University & Goldsmiths, University of London. [Cousera](https://www.coursera.org/learn/data-science-k-means-clustering-python/home/welcome).
@@ -53,3 +60,18 @@ Each project in numerical order reflects the `stages of studying` aspects of the
 - Setting up, care and sale of hearing aids 
 - Creating ear casts
 - Performing audiograms
+
+### School teacher – _Sep 2019 - May 2021_
+- Tutor in advanced chemistry and biology for high school students (09/2018 - Present). Successful preparation for ﬁnal exams.
+- Biological course "In search of comprehensible biology" for high school students – author & lecturer.
+
+
+Langage | Proficiency |
+---|---
+`Ukrainian` | native 
+`Russian` | native
+`English` | advanced
+`Spanish` | elementary
+`Scientiﬁc Latin` | full professional 
+
+
