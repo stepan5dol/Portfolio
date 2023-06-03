@@ -24,4 +24,15 @@ Historical data analysis conducted by combining DS and Medical skills. Feature e
 
 <img align="left" width="250" height="150" src="https://storage.yandexcloud.net/yandexpro-prod/storage/images/originals/rbbV040khvDPdom4n002jNPoZACSCTIuE4XAkxsM.png"> **[Practicium study projects](https://github.com/stepan5dol/practicum_projects)** 
 
-Each project in numerical order reflects the `stages of studying` aspects of the Data Scientist profession. Most of projects were based on real data. All projects were aimed to train specific skill. 
+Each project in numerical order reflects the `stages of studying` aspects of the Data Scientist profession. Most of projects were based on real data. All projects were aimed to train specific skill: `Python`, `Pandas`, `Time Series`, `ML`, `NLP`, `CV`, `SQL` etc.
+
+<br />
+<br />
+
+## Education
+
+- ### Medical education:
+    - RNRMU: GDP 93%, Laboratory work experience, Team Leading, Medical data statistics.
+- ### Data Science:
+    - **Yandex.Practicum**: Academic excellence, `Python`, `Pandas`, `Time Series`, `ML`, `NLP`, `CV`, `SQL` etc. [Study projects](https://github.com/stepan5dol/practicum_projects), [Certificate](https://github.com/stepan5dol/practicum_projects/blob/b02813ee68e2c57e7a23f24ea6e548ab9c63f58d/Dolzhenko%20Stepan_20232%D0%A6%D0%9F%D0%94%D0%A100345.pdf).
+    - **Foundations of Data Science: K-Means Clustering in Python**. London University & Goldsmiths, University of London. [Cousera](https://www.coursera.org/learn/data-science-k-means-clustering-python/home/welcome).
