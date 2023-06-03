@@ -13,7 +13,7 @@ DS/DA portfolio of Stepan Dolzhenko. It contains conducted projects/researches, 
 
 DS skills |
 ---|
- `NumPy` `Seaborn` `Pandas` `Catboost` `PostgreSQL` `IBM Statistica` `Matplotlib` `Scikit-Learn` `XGBoost` `Lightgbm` `Keynote` `Excel` `Power Point` `Feature Engineering` |
+ `NumPy` `Seaborn` `Pandas` `Catboost` `PostgreSQL` `IBM Statistica` `Matplotlib` `Scikit-Learn` `XGBoost` `Lightgbm` `Keynote` `Excel` `Power Point` `Feature Engineering` `Cluster analysis` |
 
 ## Projects
 <img align="left"  width="250" height="150" src="https://github.com/stepan5dol/Crypto-seasonal-decomposition/blob/04c5bab2056463ff3c88ec17e935e23d86773b9e/Figures/Fig.01.png"> **[Cryptocurrencies seasonal decomposition](https://github.com/stepan5dol/Crypto-seasonal-decomposition/tree/main)** 
