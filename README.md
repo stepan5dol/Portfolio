@@ -38,7 +38,7 @@ Each project in numerical order reflects the `stages of studying` aspects of the
 ## Education
 
 ### Medical education:
-- **RNRMU**: GDP 93%, Laboratory work experience, Team Leading, Medical data statistics. Was the head of the Student Scientiﬁc Histological Community and Student Paediatric Commynity.
+- **RNRMU**: GDP 93%, Laboratory work experience, Team Leading, Medical data statistics. Was the head of the Student Scientiﬁc Histology Community and Student Paediatric Community.
 
 ### Data Science:
 - **Yandex.Practicum**: Academic excellence, `Python`, `Pandas`, `Time Series`, `ML`, `NLP`, `CV`, `SQL` etc. [Study projects](https://github.com/stepan5dol/practicum_projects), [Certificate](https://github.com/stepan5dol/practicum_projects/blob/b02813ee68e2c57e7a23f24ea6e548ab9c63f58d/Dolzhenko%20Stepan_20232%D0%A6%D0%9F%D0%94%D0%A100345.pdf).
