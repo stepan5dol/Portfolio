@@ -38,13 +38,18 @@ Each project in numerical order reflects the `stages of studying` aspects of the
 - **Foundations of Data Science: K-Means Clustering in Python**. London University & Goldsmiths, University of London. [Cousera](https://www.coursera.org/learn/data-science-k-means-clustering-python/home/welcome).
 
 ## Work experience
-### Project Manager in [Research Institute of Health](https://mednet.ru/en/) – _Sep 2021 - Dec 2022_
+### Project Manager at [Research Institute of Health](https://mednet.ru/en/) – _Sep 2021 - Dec 2022_
     
 - Statistic Processing and Visualization of Medical Data
 - Managed workgroups and successfully processed and visualized medical data, enabling evidence-based decision-making for medical professionals.
 - Conducted focus groups and facilitated discussions to extract valuable insights for healthcare improvements.
 
-### Head of Media Department in [RSF](https://sepsisforum.ru/eng/) – _Mar 2022 – Dec 2022_
+### Head of Media Department at [RSF](https://sepsisforum.ru/eng/) – _Mar 2022 – Dec 2022_
 
 - Conducted target audience analysis to understand their needs and preferences, leading to the development of effective strategies for engaging and interacting with the audience.
 - Designed and managed social networks' accounts, creating engaging content to raise awareness and foster community engagement.
+
+### Audiologist / Hearing Care Professional at dobsluh.ru — _Aug 2019 - Aug 2020_
+- Setting up, care and sale of hearing aids 
+- Creating ear casts
+- Performing audiograms
