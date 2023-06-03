@@ -3,7 +3,7 @@
 
 <br />
 
-DS/DA portfolio of Stepan Dolzhenko. It contains conducted projects/researches, basic information about my education and work experience and contact info.
+DS/DA portfolio of Stepan Dolzhenko. It contains conducted projects/researches, basic information about my education, work experience and contact info.
 
 #### Contacts
 
